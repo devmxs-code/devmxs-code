@@ -52,7 +52,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/devmxs-code/devmxs-code/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/devmxs-code/devmxs-code/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 
