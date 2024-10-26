@@ -50,7 +50,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmxs-code&radius=16&theme=gruvbox&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
-
 ###
 
 <!--<img src="https://raw.githubusercontent.com/devmxs-code/devmxs-code/output/snake.svg" alt="Snake animation" /> -->
