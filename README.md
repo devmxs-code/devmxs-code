@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Full Stack Developer | PHP | Laravel | JavaScript | Python | Vibration | MySQL | MongoDB | PostgreSQL
+<p align="left">Full Stack Developer | PHP | Laravel | JavaScript | Python | MySQL | MongoDB | PostgreSQL
 
 I'm a developer who likes to create practical and intuitive solutions. I seek to transform ideas into applications that really make a difference. My main skills include developing robust and secure back-ends with PHP and Laravel, creating responsive and integrated interfaces using JavaScript, HTML5 and CSS3, and automating and optimizing processes with Python. We also develop cross-platform mobile apps with Flutter and generate data efficiently using MySQL, MongoDB and PostgreSQL.</p>
 
