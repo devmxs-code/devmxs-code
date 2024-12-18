@@ -1,7 +1,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  I'm Marcelo Xavier dos Santos, a passionate Full Stack Developer who thrives on creating practical, intuitive solutions that make a difference. I specialize in developing robust back-end systems using **PHP** and **Laravel**, building responsive and interactive front-end interfaces with **JavaScript**, **HTML5**, and **CSS3**, and optimizing processes with **Python**. I also develop cross-platform mobile apps with **Flutter** and efficiently handle data using **MySQL**, **MongoDB**, and **PostgreSQL**. My goal is to transform ideas into real-world applications.
+  I'm Marcelo Xavier dos Santos, a passionate Full Stack Developer who thrives on creating practical, intuitive solutions that make a difference. I specialize in developing robust back-end systems using PHP and Laravel, building responsive and interactive front-end interfaces with JavaScript, HTML5, and CSS3, and optimizing processes with Python. I also develop cross-platform mobile apps with Flutter and efficiently handle data using MySQL, MongoDB, and PostgreSQL. My goal is to transform ideas into real-world applications.
 </p>
 
 <h2 align="left">Tech Stack</h2>
@@ -33,11 +33,13 @@
 <h2 align="left">Social Media</h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/devmxs" target="_blank">
+  <a href="https://github.com/devmxs-code" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/marcelo-xavier-94383b186/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
   <a href="https://www.instagram.com/devmxs" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
   </a>
 </div>
-
