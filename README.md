@@ -33,13 +33,10 @@
 <h2 align="left">Social Media</h2>
 
 <div align="left">
-  <a href="https://github.com/devmxs-code" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="GitHub logo" />
-  </a>
   <a href="https://www.linkedin.com/in/marcelo-xavier-94383b186/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="https://www.instagram.com/devmxs" target="_blank">
+  <a href="https://www.instagram.com/marceloxavier.dev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
   </a>
 </div>
