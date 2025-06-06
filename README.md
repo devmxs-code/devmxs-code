@@ -1,46 +1,30 @@
-### 👋 About Me
+🚀 Marcelo Xavier - Full Stack Developer
+👨‍💻 Tech Enthusiast | Problem Solver | Clean Code Advocate
 
-Hi, I'm **Marcelo Xavier dos Santos**, a passionate **Full Stack Developer** focused on building practical and intuitive digital solutions that drive real impact.  
-My expertise lies in:
+Passionate about building scalable web & mobile solutions that deliver seamless user experiences. Specializing in type-safe applications with TypeScript. I thrive on turning complex challenges into elegant, maintainable code.
 
-- Developing **robust back-end systems** with **PHP** and **Laravel**  
-- Crafting **responsive, interactive front-end** experiences with **JavaScript**, **HTML5**, and **CSS3**  
-- Automating and optimizing processes using **Python**  
-- Creating **cross-platform mobile apps** with **Flutter**  
-- Managing data with **MySQL**, **PostgreSQL**, and **MongoDB**  
+🔧 Core Stack
 
-I'm constantly exploring new technologies and transforming innovative ideas into real-world applications.
+🖥️ Frontend
 
----
+JavaScript (ES6+) | TypeScript | HTML5 | CSS3/Sass | Flutter | React | Responsive Design
 
-### 🧠 Tech Stack
+⚙️ Backend
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,py,flutter,mysql,postgres,mongodb,aws,docker,figma" height="40" />
-</div>
+PHP | Laravel | Python | Node.js | RESTful APIs | Microservices
 
----
+🗃️ Data & DevOps
 
-### 📊 GitHub Stats
+MySQL | PostgreSQL | MongoDB | AWS | Docker
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=devmxs-code&show_icons=true&count_private=true&theme=gruvbox_light&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmxs-code&layout=compact&langs_count=6&theme=gruvbox_light&hide_border=false" height="150" />
-</div>
+🏆 GitHub Highlights
 
-<div align="left" style="margin-top: 10px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmxs-code&radius=16&theme=gruvbox&area=true&hide_border=true" height="300" />
-</div>
+<div align="center"> <a href="https://github.com/devmxs-code"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmxs-code&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmxs-code&layout=compact&langs_count=8&theme=radical"/> </a> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmxs-code&theme=react-dark&hide_border=true&area=true" width="90%"/> </div>
+🛠️ Featured Projects
 
----
+Laravel E-Commerce Platform - High-performance marketplace with payment integration
+Flutter HealthTracker - Cross-platform fitness app with Firebase backend
+Python Automation Suite - DevOps scripts for deployment optimization
+🌐 Let's Connect
 
-### 🌐 Connect with Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/marcelo-xavier-94383b186/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.instagram.com/marceloxavier.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
-  </a>
-</div>
+<div align="left"> <a href="https://www.linkedin.com/in/marcelo-xavier-94383b186/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://www.instagram.com/devmxs" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> </a> <a href="mailto:marcelo_07@live.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </div> <p align="center"> <i>Open to exciting collaborations and innovative projects!</i> 💡 </p>
