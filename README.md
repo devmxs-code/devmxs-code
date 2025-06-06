@@ -31,6 +31,10 @@ MySQL | PostgreSQL | MongoDB | AWS | Docker
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmxs-code&theme=react-dark&hide_border=true&area=true&custom_title=Activity%20Graph&cache_seconds=60" width="90%"/>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devmxs-code/devmxs-code/main/metrics.svg" alt="Metrics" width="100%">
+</div>
+
 ---
 
 ### 🌐 Let's Connect
