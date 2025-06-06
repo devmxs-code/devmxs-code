@@ -1,0 +1,23 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # a cada 12 horas
+  workflow_dispatch: # permite execução manual
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats Images
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: devmxs-code
+          show_icons: true
+          include_all_commits: true
+          count_private: true
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
