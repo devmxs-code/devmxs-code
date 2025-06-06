@@ -27,11 +27,6 @@ MySQL | PostgreSQL | MongoDB | AWS | Docker
   </a>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/devmxs-code/devmxs-code/main/github-metrics.svg" width="100%">
-</div>
-
----
 
 ### 🌐 Let's Connect
 
