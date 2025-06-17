@@ -1,24 +1,27 @@
-🚀 Marcelo Xavier - Full Stack Developer  
-👨‍💻 Tech Enthusiast | Problem Solver | Clean Code Advocate  
+# 🚀 Marcelo Xavier — Full Stack Developer  
+👨‍💻 Tech Enthusiast • Problem Solver • Clean Code Advocate  
 
-Passionate about building scalable web & mobile solutions that deliver seamless user experiences. Specializing in type-safe applications with TypeScript. I thrive on turning complex challenges into elegant, maintainable code.
-
----
-
-### 🔧 Core Stack
-
-#### 🖥️ Frontend  
-JavaScript (ES6+) | TypeScript | HTML5 | CSS3/Sass | Flutter | React | Responsive Design
-
-#### ⚙️ Backend  
-PHP | Laravel | Python | Node.js | RESTful APIs | Microservices
-
-#### 🗃️ Data & DevOps  
-MySQL | PostgreSQL | MongoDB | AWS | Docker
+Apaixonado por desenvolver soluções web e mobile escaláveis com foco em performance, acessibilidade e experiência do usuário. Especialista em aplicações type-safe com TypeScript, transformo desafios complexos em código limpo, eficiente e de fácil manutenção.
 
 ---
 
-### 🏆 GitHub Highlights
+## 🔧 Tech Stack
+
+### 🖥️ Frontend  
+**JavaScript (ES6+)** • **TypeScript** • HTML5 • CSS3/Sass  
+**React** • **Flutter** • Responsive Design
+
+### ⚙️ Backend  
+**PHP** • **Laravel** • **Python** • **Node.js**  
+RESTful APIs • Microservices Architecture
+
+### 🗃️ Data & DevOps  
+**MySQL** • **PostgreSQL** • **MongoDB**  
+**AWS** • **Docker**
+
+---
+
+## 🏆 GitHub Highlights
 
 <div align="center">
   <a href="https://github.com/devmxs-code">
@@ -27,8 +30,17 @@ MySQL | PostgreSQL | MongoDB | AWS | Docker
   </a>
 </div>
 
+---
 
-### 🌐 Let's Connect
+## 📊 Atividade no GitHub
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devmxs-code&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devmxs-code&theme=radical)](https://github.com/devmxs-code)
+
+---
+
+## 🌐 Vamos nos conectar?
 
 <div align="left">
   <a href="https://www.linkedin.com/in/marcelo-xavier-94383b186/" target="_blank">
@@ -44,5 +56,3 @@ MySQL | PostgreSQL | MongoDB | AWS | Docker
     <img src="https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Site"/>
   </a>
 </div>
-
-
