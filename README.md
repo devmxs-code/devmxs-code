@@ -34,8 +34,6 @@ RESTful APIs • Microservices Architecture
 
 ## 📊 Atividade no GitHub
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devmxs-code&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devmxs-code&theme=radical)](https://github.com/devmxs-code)
 
 ---
