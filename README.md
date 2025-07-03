@@ -25,7 +25,7 @@ RESTful APIs • Microservices Architecture
 
 <div align="center">
   <a href="https://github.com/devmxs-code">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmxs-code&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=60"/>
+<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmxs-code&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=60"/> -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmxs-code&layout=compact&langs_count=8&theme=radical&cache_seconds=60"/>
   </a>
 </div>
