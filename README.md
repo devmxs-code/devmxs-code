@@ -40,34 +40,6 @@ Passionate developer focused on transforming complex challenges into **scalable 
 
 ---
 
-## 🤖 Automation Expertise
-
-### **Web Automation**
-- **E2E Testing**: Selenium, Playwright, Puppeteer, Cypress
-- **Web Scraping**: Beautiful Soup, Scrapy, Puppeteer
-- **Bot Development**: Automated workflows and data extraction
-- **Performance Testing**: Load and stress testing automation
-
-### **CI/CD Pipelines**
-- **GitHub Actions**: Automated testing, building, and deployment
-- **Docker Automation**: Containerized build and deployment processes
-- **Build Automation**: Custom scripts for development workflows
-- **Monitoring Automation**: Health checks and alert systems
-
-### **Process Automation**
-- **API Automation**: REST API testing and monitoring
-- **Database Automation**: Migration and backup scripts
-- **Build Automation**: Custom scripts for development workflows
-- **Monitoring Automation**: Health checks and alert systems
-
-### **Python Automation**
-- **Scripting**: Automation scripts for various tasks
-- **Data Processing**: Automated data extraction and transformation
-- **API Integration**: Automated API calls and data synchronization
-- **System Administration**: Automated system tasks and maintenance
-
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
