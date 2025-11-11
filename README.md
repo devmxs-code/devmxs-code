@@ -19,7 +19,7 @@ Passionate developer focused on transforming complex challenges into **scalable 
 
 ### **Backend & Databases**
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -29,6 +29,42 @@ Passionate developer focused on transforming complex challenges into **scalable 
 ### **DevOps & Cloud**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+### **Automation & Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
+
+---
+
+## 🤖 Automation Expertise
+
+### **Web Automation**
+- **E2E Testing**: Selenium, Playwright, Puppeteer, Cypress
+- **Web Scraping**: Beautiful Soup, Scrapy, Puppeteer
+- **Bot Development**: Automated workflows and data extraction
+- **Performance Testing**: Load and stress testing automation
+
+### **CI/CD Pipelines**
+- **GitHub Actions**: Automated testing, building, and deployment
+- **Docker Automation**: Containerized build and deployment processes
+- **Build Automation**: Custom scripts for development workflows
+- **Monitoring Automation**: Health checks and alert systems
+
+### **Process Automation**
+- **API Automation**: REST API testing and monitoring
+- **Database Automation**: Migration and backup scripts
+- **Build Automation**: Custom scripts for development workflows
+- **Monitoring Automation**: Health checks and alert systems
+
+### **Python Automation**
+- **Scripting**: Automation scripts for various tasks
+- **Data Processing**: Automated data extraction and transformation
+- **API Integration**: Automated API calls and data synchronization
+- **System Administration**: Automated system tasks and maintenance
 
 ---
 
@@ -70,8 +106,11 @@ Passionate developer focused on transforming complex challenges into **scalable 
 
 <div align="center">
   
-  💡 *Always open to new challenges and collaboration opportunities!*
+  🤖 *Automating the future, one script at a time!*
   
   ![Visitors](https://komarev.com/ghpvc/?username=devmxs-code&color=blueviolet&style=flat)
 
 </div>
+
+
+*Always building tools to make development faster, safer, and more efficient!* 🚀
