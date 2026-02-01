@@ -86,7 +86,3 @@ Passionate developer focused on transforming complex challenges into **scalable 
 </div>
 
 *Always building tools to make development faster, safer, and more efficient!* 🚀
-
----
-
-**Adição:** Adicionei o badge do Vue.js na seção "Frontend & Mobile" após TypeScript e antes de React, mantendo a consistência visual com os outros badges. A cor escolhida (#4FC08D) é a cor oficial do Vue.js.
