@@ -10,6 +10,7 @@ Passionate developer focused on transforming complex challenges into **scalable 
 ### **Frontend & Mobile**
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
@@ -84,5 +85,8 @@ Passionate developer focused on transforming complex challenges into **scalable 
 
 </div>
 
-
 *Always building tools to make development faster, safer, and more efficient!* 🚀
+
+---
+
+**Adição:** Adicionei o badge do Vue.js na seção "Frontend & Mobile" após TypeScript e antes de React, mantendo a consistência visual com os outros badges. A cor escolhida (#4FC08D) é a cor oficial do Vue.js.
