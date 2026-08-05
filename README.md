@@ -61,7 +61,7 @@ Minha trajetória combina engenharia de software e gestão financeira, o que me 
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://trivex.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/TRIVEX-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Trivex"/>
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio"/>
   </a>
 </div>
 
