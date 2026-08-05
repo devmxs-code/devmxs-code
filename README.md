@@ -20,7 +20,7 @@ Minha trajetória combina engenharia de software e gestão financeira, o que me 
 
 ## 🎯 **O que eu construo**
 
-- **Plataformas SaaS** — arquitetura multi-tenant, autenticação, billing, notificações e administração unificada.
+- **Plataformas multi-tenant** — autenticação, autorização, billing e administração unificada.
 - **Sistemas distribuídos** — backends resilientes, filas de processamento, cache e observabilidade.
 - **Aplicações web e mobile** — interfaces modernas, acessíveis e com suporte a múltiplos idiomas.
 - **Infraestrutura híbrida** — ambientes de desenvolvimento, homologação e produção integrados com segurança e eficiência.
