@@ -1,40 +1,28 @@
 # 👨🏽‍💻 Marcelo Xavier
-**Arquiteto de Software** | Go · TypeScript · React · Flutter
+**Arquiteto de Software** | Engenheiro de Plataformas
 
-Arquiteto e engenheiro de software com experiência em projeto e desenvolvimento de plataformas completas — da definição da arquitetura à implantação e evolução contínua. Atuo em todas as etapas do ciclo de vida do software, com forte ênfase em sistemas escaláveis, seguros e financeiramente sustentáveis.
+Arquiteto e engenheiro de software com experiência no projeto e desenvolvimento de plataformas completas — da definição da arquitetura à implantação e evolução contínua. Atuo em todas as etapas do ciclo de vida do software, com forte ênfase em sistemas escaláveis, seguros e financeiramente sustentáveis.
 
 Minha trajetória combina engenharia de software e gestão financeira, o que me permite avaliar decisões técnicas sob uma perspectiva estratégica, equilibrando desempenho, custos e valor para o negócio.
 
 ---
 
-## 🛠️ Stack Principal
+## 🎯 **O que eu construo**
 
-### **Backend**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![SQLC](https://img.shields.io/badge/SQLC-000000?style=flat&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Asynq](https://img.shields.io/badge/Asynq-00ADD8?style=flat&logo=go&logoColor=white)
+- **Plataformas SaaS** — arquitetura multi-tenant, autenticação, billing, notificações e administração unificada.
+- **Sistemas distribuídos** — backends resilientes, filas de processamento, cache e observabilidade.
+- **Aplicações web e mobile** — interfaces modernas, acessíveis e com suporte a múltiplos idiomas.
+- **Infraestrutura híbrida** — ambientes de desenvolvimento, homologação e produção integrados com segurança e eficiência.
 
-### **Frontend & Mobile**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-25B5B5?style=flat&logo=flutter&logoColor=white)
+---
 
-### **Infraestrutura & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat&logo=tailscale&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+## 🧠 **Princípios que guiam meu trabalho**
 
-### **Qualidade & Automação**
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
-![MSW](https://img.shields.io/badge/MSW-FF6B6B?style=flat&logo=msw&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+- **Arquitetura limpa** — separação de responsabilidades, baixo acoplamento e alta coesão.
+- **Segurança por padrão** — autenticação, autorização, criptografia e boas práticas desde o início.
+- **Observabilidade** — logs, métricas e rastreamento para entender e melhorar o sistema continuamente.
+- **Evolução contínua** — sistemas preparados para crescer sem reescritas ou rupturas.
+- **Valor real** — cada decisão técnica é avaliada pelo impacto no negócio e na experiência do usuário.
 
 ---
 
