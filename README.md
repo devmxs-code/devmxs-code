@@ -1,43 +1,40 @@
-# 👨🏽‍💻 Marcelo Xavier 
-**Full Stack Developer** | Tech Enthusiast • Problem Solver • Clean Code Advocate
+# 👨🏽‍💻 Marcelo Xavier
+**Arquiteto de Software** | Go · TypeScript · React · Flutter
 
-Passionate developer focused on transforming complex challenges into **scalable solutions** and **clean code**. Specialized in building type-safe applications with emphasis on performance, accessibility, and user experience.
+Arquiteto e engenheiro de software com experiência em projeto e desenvolvimento de plataformas completas — da definição da arquitetura à implantação e evolução contínua. Atuo em todas as etapas do ciclo de vida do software, com forte ênfase em sistemas escaláveis, seguros e financeiramente sustentáveis.
+
+Minha trajetória combina engenharia de software e gestão financeira, o que me permite avaliar decisões técnicas sob uma perspectiva estratégica, equilibrando desempenho, custos e valor para o negócio.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Principal
+
+### **Backend**
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![SQLC](https://img.shields.io/badge/SQLC-000000?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Asynq](https://img.shields.io/badge/Asynq-00ADD8?style=flat&logo=go&logoColor=white)
 
 ### **Frontend & Mobile**
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Riverpod](https://img.shields.io/badge/Riverpod-25B5B5?style=flat&logo=flutter&logoColor=white)
 
-### **Backend & Databases**
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+### **Infraestrutura & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-000000?style=flat&logo=tailscale&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-### **DevOps & Cloud**
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-
-### **Automation & Tools**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?logo=puppeteer&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
+### **Qualidade & Automação**
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![MSW](https://img.shields.io/badge/MSW-FF6B6B?style=flat&logo=msw&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 
 ---
 
@@ -50,28 +47,22 @@ Passionate developer focused on transforming complex challenges into **scalable 
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/devmxs-code">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmxs-code&theme=radical&hide_border=true&area=true" width="100%"/>
-  </a>
-</div>
-
 ---
 
-## 📫 Let's Connect!
+## 📫 Onde me encontrar
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcelo-xavier-94383b186/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/devmxs" target="_blank">
+  <a href="https://www.instagram.com/trivex.io" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:marcelo_07@live.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://devmxs.com.br" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  <a href="https://trivex.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/TRIVEX-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Trivex"/>
   </a>
 </div>
 
@@ -79,10 +70,6 @@ Passionate developer focused on transforming complex challenges into **scalable 
 
 <div align="center">
   
-  🤖 *Automating the future, one script at a time!*
-  
-  ![Visitors](https://komarev.com/ghpvc/?username=devmxs-code&color=blueviolet&style=flat)
+  🧢 *Arquitetura de software como ferramenta para criar valor real.*
 
 </div>
-
-*Always building tools to make development faster, safer, and more efficient!* 🚀
